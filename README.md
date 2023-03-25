@@ -12,7 +12,7 @@ Como desenvolvedor backend Java, tenho experiência em trabalhar com sistemas es
 <p>
   <a href="https://github.com/luccasocastro">
   <p><img height="180emm" align="left" src="http://github-readme-streak-stats.herokuapp.com?user=luccasocastro&theme=dark&fire=#40C9B6&ring=40C9B6&currStreakLabel=red)](https://git.io/streak-stats"/></p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luccasocastro&layout=compact&langs_count=7&theme=dark"/>
+  <p><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luccasocastro&layout=compact&langs_count=7&theme=dark"/></p>
 </p>
 
 ## Skills
