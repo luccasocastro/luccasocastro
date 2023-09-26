@@ -10,7 +10,7 @@
 - 🌐 Passionate about web development
 - 💡 Love to learn about technologies
 
-[![Luccas top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=luccasocastro&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Luccas top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=luccasocastro&hide=python&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 <p align="left">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java">
