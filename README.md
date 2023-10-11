@@ -9,6 +9,7 @@
 - 🎓 Computer Science Student
 - 🌐 Passionate about web development
 - 💡 Love to learn about technologies
+- 🌱 Actually learning Angular!
 
 <p align="left">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java">
