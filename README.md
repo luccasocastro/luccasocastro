@@ -6,12 +6,12 @@
 
 ## My name is Luccas Castro
 
-(Spring Boot | Spring Security | Java)🚀
+(Spring Boot | Spring Security | Java | Kotlin | Python | Django | FastAPI)🚀
 
 - 🎓 Computer Science Student
 - 🌐 Passionate about web development
 - 💡 Love to learn about technologies
-- 🌱 Actually learning Angular!
+- 🌱 Actually learning PHP!
 
 ## Languages & Frameworks
 
@@ -22,6 +22,7 @@
 
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django">
+  <img src="https://img.shields.io/badge/FastAPI-092E20?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI">
   
   <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
   <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
